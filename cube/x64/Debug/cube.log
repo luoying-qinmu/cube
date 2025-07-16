@@ -1,0 +1,5 @@
+﻿  cube.cpp
+E:\VS\cube\cube\cube.cpp(508,34): warning C4002: 类函数宏的调用“RGB”参数过多
+E:\VS\cube\cube\cube.cpp(532,42): warning C4002: 类函数宏的调用“RGB”参数过多
+E:\VS\cube\cube\cube.cpp(573,34): warning C4002: 类函数宏的调用“RGB”参数过多
+  cube.vcxproj -> E:\VS\cube\x64\Debug\cube.exe
